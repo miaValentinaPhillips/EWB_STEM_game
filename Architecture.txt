@@ -1,4 +1,2 @@
-This is some outline here
-Here is another line!
-Another line
-PLZ WORK!
+This is a Engineers Without Borders App
+It is intended for out reach events, and STEM coordinations
